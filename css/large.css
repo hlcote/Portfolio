@@ -1,11 +1,11 @@
-body{
+body {
     width: 800px;
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 
-h1{
+h1 {
     font-size: 2em;
   }
 
@@ -13,17 +13,18 @@ h1{
     height: 100px;
 }
 
-h5{
+h5 {
     font-size: 1em;
 }
 
-p{
+p {
 font-size: 20px;
 }
+
 .portrait-width{
     max-width: 250px;
 }
 
-a{
+a {
     font-size: 14px;
 }

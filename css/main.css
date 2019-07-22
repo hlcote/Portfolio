@@ -1,5 +1,5 @@
-body{
-  background-color: #ffffff;
+body {
+  background-color: #fff;
   font-family: "Verdana", geneva, sans-serif;
 }
 html {
@@ -9,26 +9,26 @@ html {
   height: 100%;
 }
 
-header{
-  background-color: #ffffff;
+header {
+  background-color: #fff;
 }
 
-h1{
+h1 {
   font-size: 1.3em;
 }
 
-h1, h5{
+h1, h5 {
   padding: 0;
   margin: 5px;
 }
 
-h4{
+h4 {
   text-align: center;
   padding: 0;
   margin: 10px 0 0 0;
 }
 
-p{
+p {
   line-height: 1.5;
   text-indent: 2.0em;
   padding: 15px 15px 15px 5px;
@@ -53,11 +53,11 @@ a {
 /*
 Header Styles
 */
-.header-logo{
+.header-logo {
   flex: 10%;
 }
 
-.header-text{
+.header-text {
   flex: 80%;
   text-align: right;
   flex-wrap: nowrap;
@@ -66,7 +66,7 @@ Header Styles
 /*
 Image Styles
 */
-.portrait-width{
+.portrait-width {
   max-width: 200px;
 }
 
@@ -80,14 +80,14 @@ Image Styles
   margin-right: auto;
 }
 
-.project-width{
+.project-width {
   max-width: 175px;
 }
 
 /*
 Footer Styles
 */
-.footer-text{
+.footer-text {
   margin-top: 30px;
 }
 
