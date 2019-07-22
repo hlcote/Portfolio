@@ -1,0 +1,101 @@
+body{
+  background-color: #ffffff;
+  font-family: "Verdana", geneva, sans-serif;
+}
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+header{
+  background-color: #ffffff;
+}
+
+h1{
+  font-size: 1.3em;
+}
+
+h1, h5{
+  padding: 0;
+  margin: 5px;
+}
+
+h4{
+  text-align: center;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+p{
+  line-height: 1.5;
+  text-indent: 2.0em;
+  padding: 15px 15px 15px 5px;
+  margin: 0;
+}
+
+a {
+  color:#2d3c49;
+  font-size: 12px;
+  font-style: italic;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  justify-content: space-around;
+}
+
+/*
+Header Styles
+*/
+.header-logo{
+  flex: 10%;
+}
+
+.header-text{
+  flex: 80%;
+  text-align: right;
+  flex-wrap: nowrap;
+}
+
+/*
+Image Styles
+*/
+.portrait-width{
+  max-width: 200px;
+}
+
+.img-border {
+  border-radius: 25px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.project-width{
+  max-width: 175px;
+}
+
+/*
+Footer Styles
+*/
+.footer-text{
+  margin-top: 30px;
+}
+
+.flex-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  justify-content: space-around;
+  margin: -30px 0 0 0;
+  }

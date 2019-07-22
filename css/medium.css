@@ -1,0 +1,15 @@
+h1{
+    font-size: 1.6em;
+  }
+
+.logo-height{
+    height: 75px;
+}
+
+.portrait-width{
+    max-width: 250px;
+}
+
+.project-width{
+    max-width: 200px;
+  }
